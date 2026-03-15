@@ -1,0 +1,12 @@
+title: 오늘의 국장노트
+description: 한국 주식시장을 친근하게 읽어주는 데일리 블로그
+lang: ko-KR
+timezone: Asia/Seoul
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: auto
+header_pages:
+  - about.md
